@@ -1,0 +1,1 @@
+# Vzdálené vstupy
