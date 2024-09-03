@@ -20,7 +20,6 @@ theme:
   language: cs
   icon:
     logo: material/timeline-question
-    #logo: fontawesome/solid/book
   favicon: pix/favicon.svg
   palette:
     # Palette toggle for light mode
